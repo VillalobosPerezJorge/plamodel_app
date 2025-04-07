@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">plamodel_app</string>
+
+    <!-- Definición de variables globales -->
+    <string name="mj_select_option">Selecciona una opción</string>
+    <string name="usuario_o_email">Usuario o Email</string>
+    <string name="iniciar_sesi_n">Iniciar sesión</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="recordar_usuario_y_contrase_a">Recordar usuario y contraseña</string>
+    <string name="olvidaste_tu_contrase_a">¿Olvidaste tu contraseña?</string>
+    <string name="no_tienes_cuenta_a_n_reg_strate_aqu">¿No tienes cuenta aún? Regístrate aquí</string>
+
+    <string name="error_formato_correo">Error en el formato del correo. Ejemplo: plamodel@plamodel.com</string>
+    <string name="error_campo_vacio">Por favor llena este campo</string>
+    <string name="confirma_tu_contrase_a">Confirma tu contraseña</string>
+    <string name="error_formato_nombre">¡El nombre es muy corto!</string>
+    <string name="error_num_nombre">¡El nombre contiene números!</string>
+    <string name="error_formato_username">¡El nombre de usuario solo puede llevar letras y números!</string>
+    <string name="error_long_username">¡El nombre de usuario es muy corto!</string>
+    <string name="error_coincidencia_correo">¡El correo electrónico no coincide!</string>
+    <string name="error_formato_pass">¡La contraseña debe llevar mínimo 8 caracteres, una mayúscula y un número!</string>
+    <string name="error_fecha_futura">¡La fecha no puede superar el día de hoy!</string>
+    <string name="error_select_spinner">¡Debes seleccionar una opción!</string>
+    <string name="error_terminos">¡Debes aceptar los términos!</string>
+
+
+    <string-array name="maquetas">
+        <item>@string/mj_select_option</item>
+        <item>Blade Liger AB</item>
+        <item>Blue Eyes White Dragon Figure Rise</item>
+        <item>Vegeta New Spec</item>
+        <item>Gundam Aerial Full Mechanics</item>
+        <item>Angemon Figure Rise</item>
+        <item>ZOZOTOWN Madoka Yuki Touou HS</item>
+        <item>Magikarp Pokepla</item>
+        <item>Dibison Marking Plus Ver.</item>
+    </string-array>
+
+
+    <string-array name="sp_category">
+        <item>@string/mj_select_option</item>
+        <item>Masculino</item>
+        <item>Femenino</item>
+        <item>Otro</item>
+        <item>No definido</item>
+        <item>Prefiero no decirlo</item>
+    </string-array>
+
+    <string-array name="marca_maqueta">
+        <item>@string/mj_select_option</item>
+        <item>Kotobukiya</item>
+        <item>BANDAI</item>
+        <item>Yamashita Hobby</item>
+
+    </string-array>
+
+    <string-array name="escala_maqueta">
+        <item>@string/mj_select_option</item>
+        <item>1/72</item>
+        <item>1/144</item>
+        <item>1/100</item>
+
+    </string-array>
+
+    <string-array name="pegamento">
+        <item>@string/mj_select_option</item>
+        <item>Necesita pegamento</item>
+        <item>No necesita pegamento</item>
+
+
+    </string-array>
+    <string name="title_activity_maps_lugar_compra">MapsActivity_lugar_compra</string>
+
+</resources>
